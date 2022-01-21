@@ -1,3 +1,7 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
 .navbar{
     background-color: chocolate;
 }
@@ -7,5 +11,15 @@
 }
 
 .margin{
-    padding-top: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: coral;
+}
+
+.bg-footer{
+    background-color: orange;
+    color: white;
 }
