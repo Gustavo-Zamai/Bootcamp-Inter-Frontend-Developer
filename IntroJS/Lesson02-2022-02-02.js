@@ -23,7 +23,7 @@ function checkPalindrome2(string) {
   return console.log(true);
 }
 
-checkPalindrome2("asa");
+checkPalindrome2("arara");
 
 /*Atividade 2
 Troque todos os elementos pares e diferentes de zero de um array pelo número 0. Se o array for vazio, retorne -1.
