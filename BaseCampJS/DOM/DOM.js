@@ -1,3 +1,20 @@
+/*DOM = Document Object Model*/
+//Representa os nós do objetos da página\
+
+/*DOM X BOM*/
+//Árvore de dependências da janela do navegador 'Window', o DOM está dentro do BOM
+//DOM é filho do BOM
+
+
+
+
+
+
+
+
+
+
+
 /*Atividade: Light Mode/Dark Mode
 Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
 Copie o HTML e o CSS deste repositório
